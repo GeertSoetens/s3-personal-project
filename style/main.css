@@ -605,6 +605,11 @@ footer > img {
     .user-card h2 {
         font-size: 32px;
     }
+
+    #event-title {
+        font-size: 32px;
+        hyphens: auto;
+    }
 }
 
 @media only screen and (max-width: 500px) {
