@@ -535,6 +535,11 @@ footer > img {
         display: none;
     }
 
+    #hero-video {
+        width: unset;
+        height: 100vh;
+    }
+
     .event-list-date {
         padding: 0;
         text-align: left;
@@ -578,11 +583,6 @@ footer > img {
 
     .profile-picture img {
         width: 75px;
-    }
-
-    #hero-video {
-        width: unset;
-        height: 100vh;
     }
 }
 
