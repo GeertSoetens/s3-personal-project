@@ -579,6 +579,11 @@ footer > img {
     .profile-picture img {
         width: 75px;
     }
+
+    #hero-video {
+        width: unset;
+        height: 100vh;
+    }
 }
 
 @media only screen and (max-width: 900px) {
