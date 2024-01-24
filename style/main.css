@@ -41,7 +41,7 @@ body {
 }
 
 p {
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
     font-size: 16px;
     color: var(--secondary-white);
 
@@ -49,14 +49,14 @@ p {
 }
 
 h1 {
-    font-family: 'Metalista', sans-serif;
+    font-family: 'metalista-web', sans-serif;
     font-size: 64px;
     color: var(--primary-gold);
 }
 
 /* Set all Headings to Klavika */
 h2, h3, h4, h5, h6 {
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
 }
 
 h2 {
@@ -130,7 +130,7 @@ header {
     text-decoration: none;
     color: var(--primary-gold);
 
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
     font-weight: bold;
     font-size: 16px;
 
@@ -228,7 +228,7 @@ header {
 
     padding: 16px 32px;
 
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
     font-size: 32px;
     font-weight: bold;
     text-decoration: none;
@@ -347,7 +347,7 @@ section {
 .event-list-date {
     padding: 16px 32px;
     
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
     font-size: 48px;
     /* color: var(--secondary-white); */
     text-align: center;
@@ -362,7 +362,7 @@ section {
 }
 
 .event-list-name {
-    font-family: 'Klavika Basic', sans-serif;
+    font-family: 'klavika-web', sans-serif;
     font-size: 32px;
     /* color: var(--secondary-white); */
 
